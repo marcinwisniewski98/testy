@@ -1,0 +1,13 @@
+C:\Users\Marcin\source\repos\CarInsurance.GUI\CarInsurance.GUI\bin\Debug\CarInsurance.GUI.exe.config
+C:\Users\Marcin\source\repos\CarInsurance.GUI\CarInsurance.GUI\bin\Debug\CarInsurance.GUI.exe
+C:\Users\Marcin\source\repos\CarInsurance.GUI\CarInsurance.GUI\bin\Debug\CarInsurance.GUI.pdb
+C:\Users\Marcin\source\repos\CarInsurance.GUI\CarInsurance.GUI\obj\Debug\CarInsurance.GUI.csprojAssemblyReference.cache
+C:\Users\Marcin\source\repos\CarInsurance.GUI\CarInsurance.GUI\obj\Debug\CarInsurance.GUI.Properties.Resources.resources
+C:\Users\Marcin\source\repos\CarInsurance.GUI\CarInsurance.GUI\obj\Debug\CarInsurance.GUI.csproj.GenerateResource.cache
+C:\Users\Marcin\source\repos\CarInsurance.GUI\CarInsurance.GUI\obj\Debug\CarInsurance.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\CarInsurance.GUI\CarInsurance.GUI\obj\Debug\CarInsurance.GUI.exe
+C:\Users\Marcin\source\repos\CarInsurance.GUI\CarInsurance.GUI\obj\Debug\CarInsurance.GUI.pdb
+C:\Users\Marcin\source\repos\CarInsurance.GUI\CarInsurance.GUI\bin\Debug\CarInsurance.dll
+C:\Users\Marcin\source\repos\CarInsurance.GUI\CarInsurance.GUI\bin\Debug\CarInsurance.pdb
+C:\Users\Marcin\source\repos\CarInsurance.GUI\CarInsurance.GUI\obj\Debug\CarInsurance.GUI.Form1.resources
+C:\Users\Marcin\source\repos\CarInsurance.GUI\CarInsurance.GUI\obj\Debug\CarInsurance.GUI.csproj.CopyComplete
